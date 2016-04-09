@@ -1,6 +1,6 @@
-![什么是版本控制](what-is-version-control/hero.svg "什么是版本控制配图")
+![什么是版本控制](https://www.atlassian.com/git/images/tutorials/getting-started/what-is-version-control/hero.svg "什么是版本控制配图")
 
-###什么是版本控制
+#什么是版本控制
 
 版本控制系统的软件工具，帮助软件开发团队管理随时间的变化对源代码的一个类别。版本控制软件可以跟踪每一个修改的源代码的一种特殊的数据库。如果做错了，开发者可以时光倒流，并比较早期版本的代码，以帮助解决错误，同时尽量减少中断所有团队成员。
 
