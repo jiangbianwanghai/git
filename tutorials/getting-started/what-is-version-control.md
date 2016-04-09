@@ -31,3 +31,5 @@
 虽然可以开发软件，而无需使用任何版本控制，这样做科目的项目，没有专业团队会建议接受巨大的风险。所以，问题不在于是否使用版本控制，但该版本控制系统中使用。
 
 有很多选择，但在这里我们要重点只有一个，Git的。
+
+原文：[What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control/benefits-of-version-control "What is version control")
