@@ -165,3 +165,5 @@ git config --global alias.up rebase
 git config --global alias.ci commit</code></pre>
 
 这将产生~ /。从一节gitconfig文件。
+
+原文：[Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository "Setting up a repository")
