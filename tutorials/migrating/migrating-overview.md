@@ -2,9 +2,9 @@
 
 #从SVN迁移到Git
 
-We’ve broken down the SVN-to-Git migration process into 5 simple steps:
+我们分解从SVN到Git迁移只有5个简单步骤：
 
-* Prepare your environment for the migration.
+* 迁移前准备你的环境。
 * Convert the SVN repository to a local Git repository.
 * Synchronize the local Git repository when the SVN repository changes.
 * Share the Git repository with your developers via Bitbucket.
